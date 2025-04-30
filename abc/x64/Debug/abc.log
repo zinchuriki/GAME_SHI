@@ -1,0 +1,176 @@
+﻿  main.cpp
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(41,19): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(41,19): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(42,19): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(42,19): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(43,19): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(43,19): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(61,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(61,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(61,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(63,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(63,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(64,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(64,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(65,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(65,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(68,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(68,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(68,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(70,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(70,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(71,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(71,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(72,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(72,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(81,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(81,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(81,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(115,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(129,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(143,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(163,34): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(168,38): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(182,38): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(190,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(191,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(192,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(193,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(198,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(199,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(200,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(201,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(204,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(204,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(206,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(207,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(208,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(208,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(210,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(211,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(212,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(218,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(218,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(219,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(219,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(220,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(220,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(221,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(221,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(225,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(225,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(226,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(226,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(227,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(227,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(228,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(228,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(232,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(232,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(233,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(233,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(234,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(234,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(235,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(235,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(236,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(236,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(257,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(257,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(258,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(258,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(259,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(259,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(260,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(260,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(264,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(264,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(265,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(265,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(266,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(266,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(267,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(267,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(269,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(271,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(271,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(272,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(272,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(273,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(273,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(274,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(274,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(275,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(275,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(294,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(294,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(295,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(295,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(296,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(296,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(297,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(297,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(301,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(301,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(302,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(302,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(303,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(303,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(304,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(304,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(306,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(308,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(308,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(309,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(309,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(310,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(310,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(311,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(311,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(312,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(312,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(161,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(166,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(180,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(333,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(337,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(337,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(337,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(343,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(343,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(350,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(350,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(358,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(362,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(362,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(362,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(368,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(368,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(368,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(376,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(384,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(384,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(384,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(392,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(408,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(408,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(408,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(446,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(450,45): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(454,32): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(457,37): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(458,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(461,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(462,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(463,42): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(464,42): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(467,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(469,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(449,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(478,29): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(586,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(586,25): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\main.cpp(586,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  abc.vcxproj -> D:\OPENGL\2D-Car-Game-OpenGL-master\2D-Car-Game-OpenGL-master\x64\Debug\abc.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
