@@ -1,4 +1,4 @@
-/* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
+
 
 #include <windows.h>
 #ifdef __APPLE__
@@ -43,7 +43,7 @@ const int font2 = (int)GLUT_BITMAP_HELVETICA_18;
 const int font3 = (int)GLUT_BITMAP_8_BY_13;
 
 char s[30];
-void renderBitmapString(float x, float y, void *font, const char *string)
+static void renderBitmapString(float x, float y, void *font, const char *string)
 {
     const char *c;
     glRasterPos2f(x, y);
@@ -53,7 +53,7 @@ void renderBitmapString(float x, float y, void *font, const char *string)
     }
 }
 
-void tree(int x, int y)
+static void tree(int x, int y)
 {
     int newx = x;
     int newy = y;
@@ -73,9 +73,9 @@ void tree(int x, int y)
     glEnd();
 }
 
-/* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
 
-void startGame()
+
+static void startGame()
 {
     //Road
     glColor3f(0.412, 0.412, 0.412);
@@ -574,9 +574,9 @@ int main(int argc, char *argv[])
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);
     glutInitWindowSize(500, 650);
     glutInitWindowPosition(200, 20);
-    glutCreateWindow("fuck you");
+    glutCreateWindow("the game");
 
-    /* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
+   
 
     glutDisplayFunc(display);
     glutSpecialFunc(spe_key);
