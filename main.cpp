@@ -249,7 +249,7 @@ static void startGame()
         gv = 1;
     }
 
-/* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
+
 
     //Opposite car 2
     glColor3f(0.000, 0.000, 0.000);
@@ -465,7 +465,7 @@ void fristDesign()
 
     glColor3f(0.000, 1.000, 1.000);
     renderBitmapString(30 - 5, 50 - 40, (void *)font3, "MD RUBEL");
-    /* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
+  
     renderBitmapString(30 - 8, 50 - 43, (void *)font3, "152-15-6037");
 }
 
